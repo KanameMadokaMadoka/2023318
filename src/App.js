@@ -11,7 +11,6 @@ function App() {
       document.getElementById('divlist1').classList.remove('arrow');
       q=0;
     }
-    console.log(e)
   }
 
   return (

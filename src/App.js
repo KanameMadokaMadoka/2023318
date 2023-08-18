@@ -62,7 +62,7 @@ function App() {
         </li>
         <li>
           <div className='icon-link'>
-              <a href='https://mail.google.com/mail/u/0/#inbox'>
+              <a href='https://mail.google.com/'>
               <i className='bx bxl-gmail' ></i>
             <span className='link_name'>Gmail</span>
             </a>
